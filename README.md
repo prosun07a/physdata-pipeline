@@ -9,7 +9,7 @@ PhysData-Pipeline is a personal project developed to automate the processing and
 - **Project Dashboard:** A professional web-based interface to showcase automated data outputs.
 
 ## 🛠️ Technical Stack
-- **Languages:** Python (Pandas, NumPy, Matplotlib), C++
+- **Languages:** Python (Pandas, NumPy, Matplotlib)
 - **Web Frontend:** HTML5, Tailwind CSS, GSAP (for interactive data presentation)
 - **Tools:** MS Excel (Advanced Data Processing), LaTeX
 
